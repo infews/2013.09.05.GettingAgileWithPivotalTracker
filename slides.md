@@ -298,7 +298,11 @@ Manages your <span class="emph yellow">backlog</span> of <span class="emph yello
 
 # Slides live here:
 
-`https://github.com/infews/2013.09.05.GettingAgileWithPivotalTracker`
+`https://github.com/infews/`
+
+## in this repo..
+
+`2013.09.05.GettingAgileWithPivotalTracker`
 
 
 
