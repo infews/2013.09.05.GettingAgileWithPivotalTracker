@@ -1,0 +1,98 @@
+/* Custom CSS for your KeyDown presentation here */
+@font-face {
+font-family: "Ars";
+src: url('../fonts/ARSMaquette-Black.otf');
+font-weight: bold;
+}
+
+@font-face {
+font-family: "Ars";
+src: url('../fonts/ARSMaquette-Regular.otf');
+}
+
+@font-face {
+font-family: "Ars";
+src: url('../fonts/ARSMaquette-RegularItalic.otf');
+font-style: italic;
+}
+
+@font-face {
+font-family: "Ars";
+src: url('../fonts/ARSMaquette-BlackItalic.otf');
+font-weight: bold;
+font-style: italic;
+}
+
+/*@font-face {
+font-family: Ars;
+src: url('../fonts/ARSMaquette-Bold.otf');
+     url('../fonts/ARSMaquette-BoldItalic.otf'),
+     url('../fonts/ARSMaquette-Light.otf'),
+     url('../fonts/ARSMaquette-LightItalic.otf'),
+     url('../fonts/ARSMaquette-Medium.otf'),
+     url('../fonts/ARSMaquette-MediumItalic.otf'),
+}
+*/
+.red {
+color: rgb(185, 0, 32);
+}
+
+.blue {
+color: rgb(109, 153, 211);
+}
+
+.yellow {
+color: rgb(197, 158, 22);
+}
+
+.light-gray {
+color: rgb(221, 221, 221);
+}
+
+.deep-gray {
+color: rgb(93, 92, 92);
+}
+
+.keydown.deck-container h1 {
+font-family: "Ars", "Open Sans", sans-serif;
+color: rgb(185, 0, 32);
+text-align: none;
+}
+
+.keydown.deck-container .slide.discuss h1 {
+color: rgb(93, 92, 92);
+}
+
+.keydown.deck-container .slide.discuss .content p {
+font-size: 3rem;
+}
+
+.keydown.deck-container .slide.discuss .content h1 .emph,
+.keydown.deck-container .slide.discuss .content p .emph {
+	font-weight: bold;
+	font-style: italic;	
+}
+
+.keydown.deck-container .slide.list h1 {
+color: rgb(109, 153, 211);
+}
+
+.keydown.deck-container h2 {
+color: rgb(93, 92, 92);
+font-family: "Ars", "Open Sans", sans-serif;
+font-size: 3.75rem;
+}
+
+.keydown.deck-container h3 {
+font-family: "Ars", "Open Sans", sans-serif;
+font-size: 3rem;
+color: rgb(221, 221, 221);
+}
+
+.keydown.deck-container h4 {
+font-family: "Ars", "Open Sans", sans-serif;
+}
+
+
+
+
