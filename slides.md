@@ -294,6 +294,14 @@ Manages your <span class="emph yellow">backlog</span> of <span class="emph yello
 ![Pivotal Labs](images/tracker\ logo.png)
 ![Pivotal Labs](images/logo_blue_1004x400px.png)
 
+!SLIDE left
+
+# Links!
+* _Extreme Programming Pocket Guide_: http://amzn.to/1a9u7cM
+* Pivotal Labs: http://pivotalabs.com
+* Pivotal Blabs: http://pivotallabs.com/blabs
+* Pivotal Tracker: http://pivotaltracker.com
+
 !SLIDE
 
 # Slides live here:
